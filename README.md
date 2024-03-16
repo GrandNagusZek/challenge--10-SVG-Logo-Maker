@@ -1,6 +1,6 @@
 # challenge--10-SVG-Logo-Maker
 
-## Overview
+## Description
 
 This SVG Logo Maker is a Node.js command-line application designed to simplify the process of creating simple logos for your projects without the need for a graphic designer. The application allows you to customize the text, color, and shape of the logo and generates an SVG file.
 
@@ -40,3 +40,12 @@ To run the Logo Maker, follow these steps:
 * GitHub repository: https://github.com/GrandNagusZek/challenge--10-SVG-Logo-Maker.git
 
 * Link to live recording screenshot: 
+
+
+## License
+
+MIT License
+
+## Credits
+
+Huge thanks to our instructor for the UM Coding Boot Camp Phil Loy, for providing the instruction and guidance to complete this project
